@@ -6,7 +6,7 @@ set file=C:\Pcap_DNSProxy\Windows
 cd %file%
 %file:~0,2%
 rem Whether to pause when the program completes.
-rem 1 is on. 0 is off.
+rem 1 is off. 0 is on.
 set task=0
 rem Do you want to add Google domain database(google.china.conf)?
 rem Y or N.
